@@ -1,6 +1,8 @@
 # criticas a pickle:
 # https://www.benfrederickson.com/dont-pickle-your-data/
 
+# - [ ] see also: https://www.geeksforgeeks.org/serializing-json-data-in-python/
+
 from Algo import Algo
 import json
 
